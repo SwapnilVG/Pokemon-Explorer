@@ -37,38 +37,6 @@ Once the application is running, you can:
 - Use the search bar to search for specific Pokémon by name.
 - Navigate through pages of Pokémon using the pagination controls.
 
-## Folder Structure
-
-The project structure is organized as follows:
-    ```bash
-        pokedex-web-app/
-        ├── src/
-        │ ├── components/
-        │ │ ├── Pokedex/
-        │ │ │ ├── Pokedex.js
-        │ │ │ ├── Pokedex.css
-        │ │ ├── PokemonList/
-        │ │ │ ├── PokemonList.js
-        │ │ │ ├── PokemonList.css
-        │ │ ├── PokemonDetails/
-        │ │ │ ├── PokemonDetails.js
-        │ │ │ ├── PokemonDetails.css
-        │ │ ├── Pokemon/
-        │ │ │ ├── Pokemon.js
-        │ │ │ ├── Pokemon.css
-        │ │ ├── Search/
-        │ │ │ ├── Search.js
-        │ │ │ ├── Search.css
-        │ ├── hooks/
-        │ │ ├── usePokemonList.js
-        │ │ ├── usePokemonDetails.js
-        │ │ ├── useDebounce.js
-        │ ├── routes/
-        │ │ ├── CustomRoutes.js
-        │ ├── App.js
-        ├── package.json
-        ├── README.md
-
 
 
 ## Contributing

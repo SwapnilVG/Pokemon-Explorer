@@ -26,7 +26,7 @@ To run this application locally, follow these steps:
 2. Navigate into the project directory: `cd pokedex`.
 3. Install dependencies by running `npm install`.
 4. Start the development server with `npm start`.
-5. Open your browser and visit `http://localhost:3000` to view the application.
+5. Open your browser and visit `http://localhost:5173` to view the application.
 
 ## Usage
 
